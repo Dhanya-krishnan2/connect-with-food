@@ -12,8 +12,8 @@ const Seller = require("../models/seller");
 const transporter = nodemailer.createTransport({
   service: "gmail",
   auth: {
-    user: "hindunair111@gmail.com",
-    pass: "1qazxsw234re",
+    user: "adkldldasas@gmail.com",
+    pass: "skkfdkfkdskfkk",
   },
 });
 
