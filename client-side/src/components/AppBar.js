@@ -1,6 +1,9 @@
 import React from "react";
+// we are using these to connect the  order components by using hooks without using connect()
 import { useDispatch, useSelector } from "react-redux";
+// these are using the states to navigate inside your components
 import { useHistory } from "react-router";
+// to concatinate the pathname and the properties
 import { Link } from "react-router-dom";
 //Its helps to navigate easily
 //material-ui which helps the design more efficiently
