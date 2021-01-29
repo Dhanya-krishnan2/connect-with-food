@@ -88,7 +88,7 @@ export default function CartItem(props) {
               {description}
             </Typography>
             <Typography variant="subtitle1" color="textSecondary">
-              Rs.{price} x {quantity}
+              $.{price} x {quantity}
             </Typography>
 
             <div className={classes.buttons}>
